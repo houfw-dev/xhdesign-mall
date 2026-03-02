@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__filesystem-home__list_directory",
+      "mcp__filesystem-home__directory_tree"
+    ]
+  }
+}
